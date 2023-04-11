@@ -10,6 +10,10 @@ timeseries:
     frequency: 4.0
     amplitude: 1.0
     variance: 0.05
+  - kind: sine
+    frequency: 2.0
+    amplitude: 1.0
+    variance: 0.05
   anomalies:
   - position: middle
     length: 50
